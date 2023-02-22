@@ -5,6 +5,11 @@ supportLangs = [
        icon : "🇺🇸"
     },
     {
+       name : "Persian",
+       value : "fa-IR",
+       icon : "🇮🇷"
+    },	
+    {
         name : "汉语",
         value : "zh-Hans",
         icon : "🇨🇳"
